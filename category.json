@@ -1,37 +1,37 @@
 [
 	{
 		"Title": "Have You Ever",
-		"ImageURL": "https://raw.githubusercontent.com/Puzzookie/questions/main/haveyouever.png",
-		"JsonURL": "https://raw.githubusercontent.com/Puzzookie/questions/main/haveyouever.png"
+		"ImageURL": "https://raw.githubusercontent.com/Puzzookie/Icebreaker/main/HaveYouEver/haveyouever.png",
+		"JsonURL": ""
 	},
 	{
 		"Title": "Would You Rather",
-		"ImageURL": "https://raw.githubusercontent.com/Puzzookie/questions/main/haveyouever.png",
-		"JsonURL": "https://raw.githubusercontent.com/Puzzookie/questions/main/haveyouever.png"
+		"ImageURL": "https://raw.githubusercontent.com/Puzzookie/Icebreaker/main/WouldYouRather/wouldyourather.png",
+		"JsonURL": ""
 	},
 	{
 		"Title": "First Date",
-		"ImageURL": "https://raw.githubusercontent.com/Puzzookie/questions/main/haveyouever.png",
-		"JsonURL": "https://raw.githubusercontent.com/Puzzookie/questions/main/haveyouever.png"
+		"ImageURL": "https://raw.githubusercontent.com/Puzzookie/Icebreaker/main/FirstDate/firstdate.png",
+		"JsonURL": ""
 	},
 	{
 		"Title": "Dating",
-		"ImageURL": "https://raw.githubusercontent.com/Puzzookie/questions/main/haveyouever.png",
-		"JsonURL": "https://raw.githubusercontent.com/Puzzookie/questions/main/haveyouever.png"
+		"ImageURL": "https://raw.githubusercontent.com/Puzzookie/Icebreaker/main/Dating/dating.png",
+		"JsonURL": ""
 	},
 	{
 		"Title": "Newlywed",
-		"ImageURL": "https://raw.githubusercontent.com/Puzzookie/questions/main/haveyouever.png",
-		"JsonURL": "https://raw.githubusercontent.com/Puzzookie/questions/main/haveyouever.png"
+		"ImageURL": "https://raw.githubusercontent.com/Puzzookie/Icebreaker/main/Newlywed/newlywed.png",
+		"JsonURL": ""
 	},
 	{
 		"Title": "Personality",
-		"ImageURL": "https://raw.githubusercontent.com/Puzzookie/questions/main/haveyouever.png",
-		"JsonURL": "https://raw.githubusercontent.com/Puzzookie/questions/main/haveyouever.png"
+		"ImageURL": "https://raw.githubusercontent.com/Puzzookie/Icebreaker/main/Personality/personality.png",
+		"JsonURL": ""
 	},
 	{
 		"Title": "Deep",
-		"ImageURL": "https://raw.githubusercontent.com/Puzzookie/questions/main/haveyouever.png",
-		"JsonURL": "https://raw.githubusercontent.com/Puzzookie/questions/main/haveyouever.png"
+		"ImageURL": "https://raw.githubusercontent.com/Puzzookie/Icebreaker/main/Deep/deep.png",
+		"JsonURL": ""
 	}
 ]
