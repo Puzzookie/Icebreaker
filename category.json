@@ -7,31 +7,31 @@
 	{
 		"Title": "Would You Rather",
 		"ImageURL": "https://raw.githubusercontent.com/Puzzookie/Icebreaker/main/WouldYouRather/wouldyourather.png",
-		"JsonURL": ""
+		"JsonURL": "https://raw.githubusercontent.com/Puzzookie/Icebreaker/main/WouldYouRather/wouldyourather.json"
 	},
 	{
 		"Title": "First Date",
 		"ImageURL": "https://raw.githubusercontent.com/Puzzookie/Icebreaker/main/FirstDate/firstdate.png",
-		"JsonURL": ""
+		"JsonURL": "https://raw.githubusercontent.com/Puzzookie/Icebreaker/main/FirstDate/firstdate.json"
 	},
 	{
 		"Title": "Dating",
 		"ImageURL": "https://raw.githubusercontent.com/Puzzookie/Icebreaker/main/Dating/dating.png",
-		"JsonURL": ""
+		"JsonURL": "https://raw.githubusercontent.com/Puzzookie/Icebreaker/main/Dating/dating.json"
 	},
 	{
 		"Title": "Newlywed",
 		"ImageURL": "https://raw.githubusercontent.com/Puzzookie/Icebreaker/main/Newlywed/newlywed.png",
-		"JsonURL": ""
+		"JsonURL": "https://raw.githubusercontent.com/Puzzookie/Icebreaker/main/Newlywed/newlywed.json"
 	},
 	{
 		"Title": "Personality",
 		"ImageURL": "https://raw.githubusercontent.com/Puzzookie/Icebreaker/main/Personality/personality.png",
-		"JsonURL": ""
+		"JsonURL": "https://raw.githubusercontent.com/Puzzookie/Icebreaker/main/Personality/personality.json"
 	},
 	{
 		"Title": "Deep",
 		"ImageURL": "https://raw.githubusercontent.com/Puzzookie/Icebreaker/main/Deep/deep.png",
-		"JsonURL": ""
+		"JsonURL": "https://raw.githubusercontent.com/Puzzookie/Icebreaker/main/Deep/deep.json"
 	}
 ]
