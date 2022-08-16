@@ -1,42 +1,10 @@
 [
 	{
 		"Question": "Would you rather do this or that?",
-		"Id": "1025"
+		"Id": "1014"
 	},
 	{
 		"Question": "Would you rather do a little bit of this or a little bit of that?",
-		"Id": "1026"
-	},
-	{
-		"Question": "Would you rather do this or that?",
-		"Id": "1025"
-	},
-	{
-		"Question": "Would you rather do a little bit of this or a little bit of that?",
-		"Id": "1026"
-	},
-	{
-		"Question": "Would you rather do this or that?",
-		"Id": "1025"
-	},
-	{
-		"Question": "Would you rather do a little bit of this or a little bit of that?",
-		"Id": "1026"
-	},
-	{
-		"Question": "Would you rather do this or that?",
-		"Id": "1025"
-	},
-	{
-		"Question": "Would you rather do a little bit of this or a little bit of that?",
-		"Id": "1026"
-	},
-	{
-		"Question": "Would you rather do this or that?",
-		"Id": "1025"
-	},
-	{
-		"Question": "Would you rather do a little bit of this or a little bit of that?",
-		"Id": "1026"
+		"Id": "1015"
 	}
 ]
