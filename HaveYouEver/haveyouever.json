@@ -1,202 +1,26 @@
 [
       {
         "Question": "Have you ever broken a bone?",
-        "Id": "1659843292"
+        "Id": 1659843290002
       },
       {
         "Question": "Have you ever fired a gun?",
-        "Id": "1659843370"
+        "Id": 1659843370000
       },
       {
         "Question": "Have you ever been to a concert?",
-        "Id": "1659843405"
+        "Id": 1659843400005
       },
       {
         "Question": "Have you ever ridden in an ambulance?",
-        "Id": "1659843451"
+        "Id": 1659843450001
       },
       {
         "Question": "Have you ever had a near-death experience?",
-        "Id": "1659843458"
+        "Id": 1659843450008
       },
       {
         "Question": "Have you ever been out of your home country?",
-        "Id": "1659843469"
-      },
-      {
-        "Question": "Have you ever been arrested?",
-        "Id": "1659843477"
-      },
-      {
-        "Question": "Have you ever gotten a ticket?",
-        "Id": "1659843482"
-      },
-      {
-        "Question": "Have you ever ridden in a limo?",
-        "Id": "1659843489"
-      },
-      {
-        "Question": "Have you ever been snorkeling?",
-        "Id": "1659843500"
-      },
-      {
-        "Question": "Have you ever skipped school?",
-        "Id": "1659843501"
-      },
-      {
-        "Question": "Have you ever had braces?",
-        "Id": "1659843502"
-      },
-      {
-        "Question": "Have you ever eaten sushi?",
-        "Id": "1659843503"
-      },
-      {
-        "Question": "Have you ever gone skinny dipping?",
-        "Id": "1659843504"
-      },
-      {
-        "Question": "Have you ever met someone famous?",
-        "Id": "1659843505"
-      },
-      {
-        "Question": "Have you ever been on TV?",
-        "Id": "1659843506"
-      },
-      {
-        "Question": "Have you ever been on a cruise?",
-        "Id": "1659843507"
-      },
-      {
-        "Question": "Have you ever flown on a plane?",
-        "Id": "1659843508"
-      },
-      {
-        "Question": "Have you ever gone camping?",
-        "Id": "1659843509"
-      },
-      {
-        "Question": "Have you ever gotten a piercing?",
-        "Id": "1659843510"
-      },
-      {
-        "Question": "Have you ever swam in the ocean?",
-        "Id": "1659843511"
-      },
-      {
-        "Question": "Have you ever died your hair?",
-        "Id": "1659843512"
-      },
-      {
-        "Question": "Have you ever ridden a horse?",
-        "Id": "1659843513"
-      },
-      {
-        "Question": "Have you ever gone skydiving?",
-        "Id": "1659843514"
-      },
-      {
-        "Question": "Have you ever gone ziplining?",
-        "Id": "1659843515"
-      },
-      {
-        "Question": "Have you ever gotten a massage?",
-        "Id": "1659843516"
-      },
-      {
-        "Question": "Have you ever been on a train?",
-        "Id": "1659843517"
-      },
-      {
-        "Question": "Have you ever trespassed?",
-        "Id": "1659843518"
-      },
-      {
-        "Question": "Have you ever won an award/trophy?",
-        "Id": "1659843519"
-      },
-      {
-        "Question": "Have you ever written a poem?",
-        "Id": "1659843520"
-      },
-      {
-        "Question": "Have you ever written a song?",
-        "Id": "1659843521"
-      },
-      {
-        "Question": "Have you ever performed on a stage?",
-        "Id": "1659843522"
-      },
-      {
-        "Question": "Have you ever had a gym membership?",
-        "Id": "1659843523"
-      },
-      {
-        "Question": "Have you ever ran a race?",
-        "Id": "1659843524"
-      },
-      {
-        "Question": "Have you ever made a piece of art?",
-        "Id": "1659843525"
-      },
-      {
-        "Question": "Have you ever gotten a loan?",
-        "Id": "1659843526"
-      },
-      {
-        "Question": "Have you ever bought a car?",
-        "Id": "1659843527"
-      },
-      {
-        "Question": "Have you ever been skiing?",
-        "Id": "1659843528"
-      },
-      {
-        "Question": "Have you ever been surfing?",
-        "Id": "1659843529"
-      },
-      {
-        "Question": "Have you ever been scubadiving?",
-        "Id": "1659843530"
-      },
-      {
-        "Question": "Have you ever stolen something?",
-        "Id": "1659843531"
-      },
-      {
-        "Question": "Have you ever had a pet?",
-        "Id": "1659843532"
-      },
-      {
-        "Question": "Have you ever made something with your bare hands?",
-        "Id": "1659843533"
-      },
-      {
-        "Question": "Have you ever had culture shock?",
-        "Id": "1659843534"
-      },
-      {
-        "Question": "Have you ever locked your keys inside your car?",
-        "Id": "1659843535"
-      },
-      {
-        "Question": "Have you ever been in the military?",
-        "Id": "1659843536"
-      },
-      {
-        "Question": "Have you ever been to an escape room?",
-        "Id": "1659843537"
-      },
-      {
-        "Question": "Have you ever gone to college?",
-        "Id": "1659843538"
-      },
-      {
-        "Question": "Have you ever failed a class?",
-        "Id": "1659843539"
-      },
-      {
-        "Question": "Have you ever been engaged?",
-        "Id": "1659843540"
+        "Id": 1659843460009
       }
 ]
